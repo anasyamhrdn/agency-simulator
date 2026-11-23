@@ -10,7 +10,7 @@ https://anasyamhrdn.github.io/agency-simulator/
 
 ## Fitur / Features
 
-- Pilih nama agensimu sendiri dan 4 tingkat kesulitan (Santai, Normal, Sulit, Direktur)
+- Pilih nama agensimu sendiri, dengan tantangan yang naik otomatis seiring agensimu berkembang
 - Pilih tim dari staf dengan skill Kreativitas, Strategi, dan Klien
 - Rekrut freelancer atau karyawan tetap, beri cuti saat kelelahan, atau berhentikan staf
 - Tender dan pitching melawan agensi saingan
